@@ -8,6 +8,7 @@
     "url": "git://github.com/dscape/hello_world.git"
   },
   "subdomain": "nunohelloworldapp",
+  "scripts": {"start": "node index.js"},
   "main": "index.js",
   "engines": {
     "node": "~0.6.7"
